@@ -5,5 +5,5 @@ For more info please view the file 'A Presentation on A Two-Stage Algorithm for 
 
 Paper Link: https://ieeexplore.ieee.org/abstract/document/1621193
 
-![Inverse Filter](https://i.imgur.com/undefined.png)
+![Inverse Filter](https://i.imgur.com/QX8dsGB.png)
 ![Spectrograms](https://i.imgur.com/kN3XB6L.png)
