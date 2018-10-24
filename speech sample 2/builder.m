@@ -1,0 +1,1 @@
+[a, fs]= audioread('amy.wav');
