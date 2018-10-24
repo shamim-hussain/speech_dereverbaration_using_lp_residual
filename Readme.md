@@ -5,4 +5,4 @@ For more info please view the file 'A Presentation on A Two-Stage Algorithm for 
 
 Paper Link: https://ieeexplore.ieee.org/abstract/document/1621193
 
-![Spectrograms](https://imgur.com/a/gGUh7Hp)
+![Spectrograms](https://imgur.com/kN3XB6L)
